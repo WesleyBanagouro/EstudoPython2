@@ -4,7 +4,7 @@ from twilio.rest import Client
 # SID do twilio.com/console
 account_sid = "ACf1e64c61cbc58aa0fcb013cf93b8a00c"
 # Token de autenticação do twilio.com/console
-auth_token = "f8af4e791f99f35e82a2db22ddca93ec"
+auth_token = "a7b0346ed7534d61cf7c495a01df55ac"
 client = Client(account_sid, auth_token)
 
 Lista_meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho']
